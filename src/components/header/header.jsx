@@ -3,7 +3,7 @@ import './header.css'
 
 import CTA from './CTA'
 import ME from '../../assets/me.png'
-
+import HeaderSocials from './HeaderSocials'
 
 const header = () => {
   return (
@@ -13,7 +13,7 @@ const header = () => {
         <h1>Aswin K</h1>
         <h5 className="text-light">Web App Developer</h5>
         <CTA />
-
+        <HeaderSocials />
 
         <div className='me'>
           <img src={ME} alt="me" />
