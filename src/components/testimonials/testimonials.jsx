@@ -1,10 +1,10 @@
 import React from 'react'
 import './testimonials.css'
 
-const testimonials = () => {
+const Testimonials = () => {
   return (
     <section id='testimonials'>testimonials</section>
   )
 }
 
-export default testimonials
+export default Testimonials
