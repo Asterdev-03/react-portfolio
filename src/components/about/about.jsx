@@ -40,18 +40,17 @@ const About = () => {
               <small>80+ Completed</small>
             </article>
           </div>
+
+          <p>
+            I'm a Student and a Developer !!
+            🥅 Currently studying at Jyothi Engineering College.
+            👯 Looking to collaborate with other developers.
+            🌱 Current Goal: To develop indie games.
+            🔭 Fun Fact: I love to draw pixel arts and play games.
+          </p>
+
+          <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
-
-        <p>
-        I'm a Student and a Developer !!
-        🥅 Currently studying at Jyothi Engineering College.
-        👯 Looking to collaborate with other developers.
-        🌱 Current Goal: To develop indie games.
-        🔭 Fun Fact: I love to draw pixel arts and play games.
-        </p>
-
-        <a href="#contact" className='btn btn-primary'>Let's Talk</a>
-
       </div>
     </section>
   )
