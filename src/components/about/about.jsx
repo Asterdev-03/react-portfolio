@@ -42,11 +42,7 @@ const About = () => {
           </div>
 
           <p>
-            I'm a Student and a Developer !!
-            🥅 Currently studying at Jyothi Engineering College.
-            👯 Looking to collaborate with other developers.
-            🌱 Current Goal: To develop indie games.
-            🔭 Fun Fact: I love to draw pixel arts and play games.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi porro est quaerat deleniti? Voluptatibus labore minus, soluta quas adipisci nisi quam debitis quos eius optio.
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>

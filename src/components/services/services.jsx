@@ -17,23 +17,23 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>The external scars tell only part of the story.</p>
+              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit, quasi..</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>The external scars tell only part of the story.</p>
+              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit, quasi..</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>The external scars tell only part of the story.</p>
+              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit, quasi..</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>The external scars tell only part of the story.</p>
+              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit, quasi..</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>The external scars tell only part of the story.</p>
+              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit, quasi..</p>
             </li>
           </ul>
         </article>
@@ -45,27 +45,27 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>The external scars tell only part of the story.</p>
+              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit, quasi..</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>The external scars tell only part of the story.</p>
+              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit, quasi..</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>The external scars tell only part of the story.</p>
+              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit, quasi..</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>The external scars tell only part of the story.</p>
+              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit, quasi..</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>The external scars tell only part of the story.</p>
+              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit, quasi..</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>The external scars tell only part of the story.</p>
+              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit, quasi..</p>
             </li>
           </ul>
         </article>
@@ -77,23 +77,23 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>The external scars tell only part of the story.</p>
+              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit, quasi..</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>The external scars tell only part of the story.</p>
+              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit, quasi..</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>The external scars tell only part of the story.</p>
+              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit, quasi..</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>The external scars tell only part of the story.</p>
+              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit, quasi..</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>The external scars tell only part of the story.</p>
+              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit, quasi..</p>
             </li>
           </ul>
         </article>
